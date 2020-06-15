@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "name": "Moon Whale Studio",
+    "price": 8500,
+    "province": "Bangkok",
+    "image_path": "1.jpeg",
+    "colors": ["DarkKhaki", "Linen", "DarkSlateGray"],
+    "objects": ["furniture", "room", "seat", "interior design", "chair", "indoors", "trading floor", "sofa", "table", "window", "home", "lamp", "rug", "hotel", "luxury", "contemporary", "house", "no person", "easy chair", "curtain"]
+  },
+  {
+    "id": 1,
+    "name": "MOOM cafe",
+    "price": 8500,
+    "province": "Bangkok",
+    "image_path": "2.jpeg",
+    "colors": ["Burlywood", "DimGray", "Beige", "SaddleBrown"],
+    "objects": ["chair", "mirror", "indoors", "furniture", "seat", "family", "inside", "room", "table", "hotel", "interior design", "house", "contemporary", "lamp", "design", "luxury", "bathroom", "window", "stool", "apartment"]
+  },
+  {
+    "id": 2,
+    "name": "บ้านลาดพร้าว 39",
+    "price": 8500,
+    "province": "Bangkok",
+    "image_path": "3.jpeg",
+    "colors": ["DarkOliveGreen", "Tan", "Black", "Silver", "DarkOliveGreen", "Gray"],
+    "objects": ["house", "home", "yard", "architecture", "family", "tree", "garden", "people", "building", "luxury", "porch", "street", "wheel", "lawn", "balcony", "class", "seat", "patio", "hotel", "suburb"]
+  },
+  {
+    "id": 3,
+    "name": "บ้านทรัพย์ทวี",
+    "price": 8500,
+    "province": "Bangkok",
+    "image_path": "4.jpeg",
+    "colors": ["Black", "DimGray", "Gainsboro", "Burlywood"],
+    "objects": ["home", "architecture", "no person", "house", "building", "museum", "light", "window", "room", "street", "people", "travel", "mansion", "villa", "tree", "family", "church", "calamity", "hotel", "porch"]
+  },
+  {
+    "id": 4,
+    "name": "CHOBJAI NIGHT CITY POP",
+    "price": 8500,
+    "province": "Bangkok",
+    "image_path": "5.jpeg",
+    "colors": ["Sienna", "Black", "MediumVioletRed", "DarkSlateBlue", "Orchid", "Tan", "IndianRed"],
+    "objects": ["light", "hotel", "architecture", "evening", "street", "no person", "travel", "lamp", "city", "building", "dusk", "Christmas", "illuminated", "luxury", "urban", "casino", "window", "neon", "dark", "house"]
+  },
+  {
+    "id": 5,
+    "name": "บ้านอารีย์ ซอย 5",
+    "price": 8500,
+    "province": "Bangkok",
+    "image_path": "6.jpeg",
+    "colors": ["DarkGray", "DarkSlateGray", "Gray", "DarkOliveGreen", "DimGray"],
+    "objects": ["architecture", "home", "house", "building", "hotel", "tree", "street", "lawn", "luxury", "garden", "family", "mansion", "yard", "no person", "entrance", "university", "travel", "garage", "balcony", "suburb"]
+  },
+  {
+    "id": 6,
+    "name": "ฌ เฌอ สตูดิโอ",
+    "price": 8500,
+    "province": "Bangkok",
+    "image_path": "7.jpeg",
+    "colors": ["LightGray", "Sienna", "DarkSlateGray", "Peru", "Black"],
+    "objects": ["interior design", "indoors", "contemporary", "furniture", "room", "sofa", "family", "chair", "seat", "luxury", "rug", "comfort", "trading floor", "apartment", "minimalist", "window", "lamp", "house", "table", "parquet"]
+  },
+  {
+    "id": 7,
+    "name": "บ้านเลขที่ 10 สตูดิโอ",
+    "price": 8500,
+    "province": "Bangkok",
+    "image_path": "8.jpeg",
+    "colors": ["DarkGray", "DimGray", "DarkOliveGreen", "Sienna"],
+    "objects": ["architecture", "house", "no person", "home", "family", "street", "luxury", "tree", "window", "building", "balcony", "villa", "hotel", "travel", "garden", "yard", "outdoors", "mansion", "porch", "pavement"]
+  },
+  {
+    "id": 8,
+    "name": "The White House Studio Lagoon",
+    "price": 8500,
+    "province": "Bangkok",
+    "image_path": "9.jpeg",
+    "colors": ["DarkGray", "DimGray", "WhiteSmoke", "Black"],
+    "objects": ["room", "indoors", "sofa", "contemporary", "furniture", "family", "interior design", "seat", "window", "house", "luxury", "apartment", "trading floor", "minimalist", "rug", "home", "table", "chair", "no person", "comfort"]
+  },
+  {
+    "id": 9,
+    "name": "4good Studio",
+    "price": 8500,
+    "province": "Bangkok",
+    "image_path": "10.jpeg",
+    "colors": ["Gray", "DarkSlateGray", "Gainsboro"],
+    "objects": ["room", "interior design", "window", "furniture", "indoors", "contemporary", "chair", "table", "seat", "family", "house", "lamp", "vase", "minimalist", "wood", "home", "luxury", "trading floor", "empty", "apartment"]
+  }
+]
